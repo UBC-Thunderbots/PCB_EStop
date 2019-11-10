@@ -8,7 +8,8 @@ Github SVN repository for UBC Thunderbots PCB_EStop Altium project files.
 2. Altium Designer
 
 ## Instructions
-1. Clone the UBC-Thunderbots/PCB_EStop to your PC (i.e. C:/Documents/GitHub/PCB_EStop)
+1. Fork the repository in github.
+1. Clone your fork of the repository UBC-Thunderbots/PCB_EStop to your PC (i.e. C:/Documents/GitHub/PCB_EStop)
 2. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Version Control** and ensure *SVN - Subversion* is enabled and Version 1.9 is selected.
 4. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Design Repositories**.
 5. Within **Design Repositories** click on on *Connect To* -> *SVN*.
