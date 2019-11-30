@@ -1,0 +1,57 @@
+Added Component: Designator=*(35mm Aux Header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SWITCH ROCKER SPST 10A 125V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "CH755-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/zf-electronics/SRB22A2FBBNN/CH755-ND/446021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ZF Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRB22A2FBBNN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.276 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "10A 125V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=R1-1
+Added Pin To Net: NetName=Net*_1 Pin=R2-2
+Added Pin To Net: NetName=Net*_1 Pin=R3-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=R1-2
+Added Pin To Net: NetName=Net*_2 Pin=S1-0
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=R2-1
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=S1-1
+Added Net: Name=NetR3_2
+Added Class: Name=EStop
+Added Room: Name=EStop
