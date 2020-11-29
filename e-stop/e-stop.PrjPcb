@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJSOWTMX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for e-stop\Design Rule Check - e-stop.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
